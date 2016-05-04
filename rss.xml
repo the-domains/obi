@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Portfolio of Obioma Obiaguzor]]></title>
+        <description><![CDATA[Portfolio of Obioma Obiaguzor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 May 2016 19:14:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Fight for Space]]></title>
+            <description><![CDATA[<article><h1>The Fight for Space</h1><p>Through black and white photography, man-made and natural elements are being juxtaposed and infiltrated by one another, continually fighting for limited space. Various ideas explored include disease, waste, and industrialization. Damage, degeneration, and reappropriation have become a major issue to the naturalistic world and are slowly overthrowing Mother nature. These photos serve as a visual means to highlight natural and urban elements competing to survive within the same locations.</p></article>]]></description>
+            <link>undefinedthe-fight-for-space/index.html</link>
+            <guid isPermaLink="false">49bdfb30-60bb-4431-b833-11507af12c44</guid>
+            <pubDate>Wed, 04 May 2016 19:13:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
